@@ -1,5 +1,5 @@
 # pi-darts
-Estimating pi using a simulation approach!
+Estimating pi using a Monte Carlo simulation!
 
 Goal of this project:
 To to do this, imagine a circular dart board of radius 0.5 units pinned to a square wall, and randomly throw darts at the wall. Take note of where the darts hit the wall and whether or not they fall within our outwith the dart board (assuming the dart must hit somewhere within that square wall).
